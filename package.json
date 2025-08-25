@@ -1,5 +1,5 @@
 {
-  "name": "blockchain-developer-bootcamp",
+  "name": "Poor Bearded Man",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -55,5 +55,5 @@
     "ethers": "^5.5.4",
     "hardhat": "^2.26.3"
   },
-  "type": "module"
+  "type": "commonjs"
 }
